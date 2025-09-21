@@ -1,0 +1,519 @@
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.142.216.198:8501
+
+Database initialized at omr.db
+Saved thresholded image at results/thresh_testa.jpg
+Saved warped and thresholded images for data/Set A\testa.jpg
+Detected 0 bubbles, expected ~400
+Sample bubble coordinates: []
+Warning: Bubble count 0 out of range, interpolating grid
+Debug image saved at results/debug_TestA.jpg
+Q1, Opt0: Fill ratio = 0.00
+Q1, Opt1: Fill ratio = 0.05
+Q1, Opt2: Fill ratio = 0.00
+Q1, Opt3: Fill ratio = 0.17
+Q2, Opt0: Fill ratio = 0.00
+Q2, Opt1: Fill ratio = 0.10
+Q2, Opt2: Fill ratio = 0.00
+Q2, Opt3: Fill ratio = 0.21
+Q3, Opt0: Fill ratio = 0.00
+Q3, Opt1: Fill ratio = 0.04
+Q3, Opt2: Fill ratio = 0.00
+Q3, Opt3: Fill ratio = 0.26
+Q4, Opt0: Fill ratio = 0.00
+Q4, Opt1: Fill ratio = 0.12
+Q4, Opt2: Fill ratio = 0.00
+Q4, Opt3: Fill ratio = 0.30
+Q5, Opt0: Fill ratio = 0.00
+Q5, Opt1: Fill ratio = 0.13
+Q5, Opt2: Fill ratio = 0.00
+Q5, Opt3: Fill ratio = 0.36
+Q6, Opt0: Fill ratio = 0.00
+Q6, Opt1: Fill ratio = 0.15
+Q6, Opt2: Fill ratio = 0.00
+Q6, Opt3: Fill ratio = 0.39
+Q7, Opt0: Fill ratio = 0.00
+Q7, Opt1: Fill ratio = 0.14
+Q7, Opt2: Fill ratio = 0.00
+Q7, Opt3: Fill ratio = 0.44
+Q8, Opt0: Fill ratio = 0.00
+Q8, Opt1: Fill ratio = 0.13
+Q8, Opt2: Fill ratio = 0.00
+Q8, Opt3: Fill ratio = 0.50
+Q9, Opt0: Fill ratio = 0.00
+Q9, Opt1: Fill ratio = 0.12
+Q9, Opt2: Fill ratio = 0.00
+Q9, Opt3: Fill ratio = 0.53
+Q10, Opt0: Fill ratio = 0.00
+Q10, Opt1: Fill ratio = 0.12
+Q10, Opt2: Fill ratio = 0.00
+Q10, Opt3: Fill ratio = 0.56
+Q11, Opt0: Fill ratio = 0.00
+Q11, Opt1: Fill ratio = 0.13
+Q11, Opt2: Fill ratio = 0.04
+Q11, Opt3: Fill ratio = 0.61
+Q12, Opt0: Fill ratio = 0.00
+Q12, Opt1: Fill ratio = 0.16
+Q12, Opt2: Fill ratio = 0.05
+Q12, Opt3: Fill ratio = 0.61
+Q13, Opt0: Fill ratio = 0.00
+Q13, Opt1: Fill ratio = 0.26
+Q13, Opt2: Fill ratio = 0.08
+Q13, Opt3: Fill ratio = 0.68
+Q14, Opt0: Fill ratio = 0.00
+Q14, Opt1: Fill ratio = 0.18
+Q14, Opt2: Fill ratio = 0.13
+Q14, Opt3: Fill ratio = 0.76
+Q15, Opt0: Fill ratio = 0.00
+Q15, Opt1: Fill ratio = 0.13
+Q15, Opt2: Fill ratio = 0.16
+Q15, Opt3: Fill ratio = 0.77
+Q16, Opt0: Fill ratio = 0.00
+Q16, Opt1: Fill ratio = 0.13
+Q16, Opt2: Fill ratio = 0.22
+Q16, Opt3: Fill ratio = 0.75
+Q17, Opt0: Fill ratio = 0.00
+Q17, Opt1: Fill ratio = 0.15
+Q17, Opt2: Fill ratio = 0.25
+Q17, Opt3: Fill ratio = 0.71
+Q18, Opt0: Fill ratio = 0.00
+Q18, Opt1: Fill ratio = 0.14
+Q18, Opt2: Fill ratio = 0.27
+Q18, Opt3: Fill ratio = 0.72
+Q19, Opt0: Fill ratio = 0.00
+Q19, Opt1: Fill ratio = 0.18
+Q19, Opt2: Fill ratio = 0.28
+Q19, Opt3: Fill ratio = 0.69
+Q20, Opt0: Fill ratio = 0.00
+Q20, Opt1: Fill ratio = 0.18
+Q20, Opt2: Fill ratio = 0.33
+Q20, Opt3: Fill ratio = 0.67
+Q21, Opt0: Fill ratio = 0.00
+Q21, Opt1: Fill ratio = 0.18
+Q21, Opt2: Fill ratio = 0.33
+Q21, Opt3: Fill ratio = 0.62
+Q22, Opt0: Fill ratio = 0.00
+Q22, Opt1: Fill ratio = 0.13
+Q22, Opt2: Fill ratio = 0.36
+Q22, Opt3: Fill ratio = 0.62
+Q23, Opt0: Fill ratio = 0.00
+Q23, Opt1: Fill ratio = 0.13
+Q23, Opt2: Fill ratio = 0.40
+Q23, Opt3: Fill ratio = 0.59
+Q24, Opt0: Fill ratio = 0.00
+Q24, Opt1: Fill ratio = 0.12
+Q24, Opt2: Fill ratio = 0.40
+Q24, Opt3: Fill ratio = 0.55
+Q25, Opt0: Fill ratio = 0.00
+Q25, Opt1: Fill ratio = 0.07
+Q25, Opt2: Fill ratio = 0.43
+Q25, Opt3: Fill ratio = 0.52
+Q26, Opt0: Fill ratio = 0.00
+Q26, Opt1: Fill ratio = 0.08
+Q26, Opt2: Fill ratio = 0.44
+Q26, Opt3: Fill ratio = 0.47
+Q27, Opt0: Fill ratio = 0.00
+Q27, Opt1: Fill ratio = 0.10
+Q27, Opt2: Fill ratio = 0.47
+Q27, Opt3: Fill ratio = 0.45
+Q28, Opt0: Fill ratio = 0.00
+Q28, Opt1: Fill ratio = 0.12
+Q28, Opt2: Fill ratio = 0.49
+Q28, Opt3: Fill ratio = 0.41
+Q29, Opt0: Fill ratio = 0.00
+Q29, Opt1: Fill ratio = 0.11
+Q29, Opt2: Fill ratio = 0.47
+Q29, Opt3: Fill ratio = 0.38
+Q30, Opt0: Fill ratio = 0.00
+Q30, Opt1: Fill ratio = 0.12
+Q30, Opt2: Fill ratio = 0.53
+Q30, Opt3: Fill ratio = 0.35
+Q31, Opt0: Fill ratio = 0.00
+Q31, Opt1: Fill ratio = 0.13
+Q31, Opt2: Fill ratio = 0.53
+Q31, Opt3: Fill ratio = 0.33
+Q32, Opt0: Fill ratio = 0.00
+Q32, Opt1: Fill ratio = 0.16
+Q32, Opt2: Fill ratio = 0.53
+Q32, Opt3: Fill ratio = 0.27
+Q33, Opt0: Fill ratio = 0.00
+Q33, Opt1: Fill ratio = 0.14
+Q33, Opt2: Fill ratio = 0.57
+Q33, Opt3: Fill ratio = 0.25
+Q34, Opt0: Fill ratio = 0.02
+Q34, Opt1: Fill ratio = 0.18
+Q34, Opt2: Fill ratio = 0.60
+Q34, Opt3: Fill ratio = 0.21
+Q35, Opt0: Fill ratio = 0.10
+Q35, Opt1: Fill ratio = 0.18
+Q35, Opt2: Fill ratio = 0.64
+Q35, Opt3: Fill ratio = 0.22
+Q36, Opt0: Fill ratio = 0.16
+Q36, Opt1: Fill ratio = 0.19
+Q36, Opt2: Fill ratio = 0.65
+Q36, Opt3: Fill ratio = 0.19
+Q37, Opt0: Fill ratio = 0.23
+Q37, Opt1: Fill ratio = 0.20
+Q37, Opt2: Fill ratio = 0.67
+Q37, Opt3: Fill ratio = 0.17
+Q38, Opt0: Fill ratio = 0.28
+Q38, Opt1: Fill ratio = 0.20
+Q38, Opt2: Fill ratio = 0.72
+Q38, Opt3: Fill ratio = 0.16
+Q39, Opt0: Fill ratio = 0.35
+Q39, Opt1: Fill ratio = 0.20
+Q39, Opt2: Fill ratio = 0.73
+Q39, Opt3: Fill ratio = 0.14
+Q40, Opt0: Fill ratio = 0.39
+Q40, Opt1: Fill ratio = 0.23
+Q40, Opt2: Fill ratio = 0.73
+Q40, Opt3: Fill ratio = 0.09
+Q41, Opt0: Fill ratio = 0.46
+Q41, Opt1: Fill ratio = 0.26
+Q41, Opt2: Fill ratio = 0.80
+Q41, Opt3: Fill ratio = 0.07
+Q42, Opt0: Fill ratio = 0.51
+Q42, Opt1: Fill ratio = 0.30
+Q42, Opt2: Fill ratio = 0.80
+Q42, Opt3: Fill ratio = 0.05
+Q43, Opt0: Fill ratio = 0.57
+Q43, Opt1: Fill ratio = 0.34
+Q43, Opt2: Fill ratio = 0.80
+Q43, Opt3: Fill ratio = 0.02
+Q44, Opt0: Fill ratio = 0.62
+Q44, Opt1: Fill ratio = 0.39
+Q44, Opt2: Fill ratio = 0.82
+Q44, Opt3: Fill ratio = 0.00
+Q45, Opt0: Fill ratio = 0.65
+Q45, Opt1: Fill ratio = 0.40
+Q45, Opt2: Fill ratio = 0.87
+Q45, Opt3: Fill ratio = 0.00
+Q46, Opt0: Fill ratio = 0.66
+Q46, Opt1: Fill ratio = 0.40
+Q46, Opt2: Fill ratio = 0.88
+Q46, Opt3: Fill ratio = 0.00
+Q47, Opt0: Fill ratio = 0.70
+Q47, Opt1: Fill ratio = 0.40
+Q47, Opt2: Fill ratio = 0.93
+Q47, Opt3: Fill ratio = 0.00
+Q48, Opt0: Fill ratio = 0.72
+Q48, Opt1: Fill ratio = 0.44
+Q48, Opt2: Fill ratio = 0.93
+Q48, Opt3: Fill ratio = 0.00
+Q49, Opt0: Fill ratio = 0.72
+Q49, Opt1: Fill ratio = 0.46
+Q49, Opt2: Fill ratio = 0.95
+Q49, Opt3: Fill ratio = 0.00
+Q50, Opt0: Fill ratio = 0.75
+Q50, Opt1: Fill ratio = 0.47
+Q50, Opt2: Fill ratio = 1.00
+Q50, Opt3: Fill ratio = 0.00
+Q51, Opt0: Fill ratio = 0.79
+Q51, Opt1: Fill ratio = 0.52
+Q51, Opt2: Fill ratio = 1.00
+Q51, Opt3: Fill ratio = 0.00
+Q52, Opt0: Fill ratio = 0.80
+Q52, Opt1: Fill ratio = 0.53
+Q52, Opt2: Fill ratio = 0.99
+Q52, Opt3: Fill ratio = 0.00
+Q53, Opt0: Fill ratio = 0.84
+Q53, Opt1: Fill ratio = 0.55
+Q53, Opt2: Fill ratio = 0.96
+Q53, Opt3: Fill ratio = 0.00
+Q54, Opt0: Fill ratio = 0.87
+Q54, Opt1: Fill ratio = 0.59
+Q54, Opt2: Fill ratio = 0.92
+Q54, Opt3: Fill ratio = 0.00
+Q55, Opt0: Fill ratio = 0.88
+Q55, Opt1: Fill ratio = 0.60
+Q55, Opt2: Fill ratio = 0.88
+Q55, Opt3: Fill ratio = 0.00
+Q56, Opt0: Fill ratio = 0.92
+Q56, Opt1: Fill ratio = 0.63
+Q56, Opt2: Fill ratio = 0.84
+Q56, Opt3: Fill ratio = 0.00
+Q57, Opt0: Fill ratio = 0.93
+Q57, Opt1: Fill ratio = 0.66
+Q57, Opt2: Fill ratio = 0.81
+Q57, Opt3: Fill ratio = 0.00
+Q58, Opt0: Fill ratio = 0.95
+Q58, Opt1: Fill ratio = 0.67
+Q58, Opt2: Fill ratio = 0.80
+Q58, Opt3: Fill ratio = 0.00
+Q59, Opt0: Fill ratio = 1.00
+Q59, Opt1: Fill ratio = 0.70
+Q59, Opt2: Fill ratio = 0.79
+Q59, Opt3: Fill ratio = 0.00
+Q60, Opt0: Fill ratio = 1.00
+Q60, Opt1: Fill ratio = 0.73
+Q60, Opt2: Fill ratio = 0.74
+Q60, Opt3: Fill ratio = 0.00
+Q61, Opt0: Fill ratio = 1.00
+Q61, Opt1: Fill ratio = 0.74
+Q61, Opt2: Fill ratio = 0.73
+Q61, Opt3: Fill ratio = 0.00
+Q62, Opt0: Fill ratio = 1.00
+Q62, Opt1: Fill ratio = 0.75
+Q62, Opt2: Fill ratio = 0.72
+Q62, Opt3: Fill ratio = 0.00
+Q63, Opt0: Fill ratio = 1.00
+Q63, Opt1: Fill ratio = 0.74
+Q63, Opt2: Fill ratio = 0.68
+Q63, Opt3: Fill ratio = 0.00
+Q64, Opt0: Fill ratio = 1.00
+Q64, Opt1: Fill ratio = 0.76
+Q64, Opt2: Fill ratio = 0.66
+Q64, Opt3: Fill ratio = 0.00
+Q65, Opt0: Fill ratio = 1.00
+Q65, Opt1: Fill ratio = 0.79
+Q65, Opt2: Fill ratio = 0.63
+Q65, Opt3: Fill ratio = 0.00
+Q66, Opt0: Fill ratio = 1.00
+Q66, Opt1: Fill ratio = 0.80
+Q66, Opt2: Fill ratio = 0.60
+Q66, Opt3: Fill ratio = 0.00
+Q67, Opt0: Fill ratio = 1.00
+Q67, Opt1: Fill ratio = 0.85
+Q67, Opt2: Fill ratio = 0.56
+Q67, Opt3: Fill ratio = 0.00
+Q68, Opt0: Fill ratio = 1.00
+Q68, Opt1: Fill ratio = 0.88
+Q68, Opt2: Fill ratio = 0.53
+Q68, Opt3: Fill ratio = 0.00
+Q69, Opt0: Fill ratio = 1.00
+Q69, Opt1: Fill ratio = 0.91
+Q69, Opt2: Fill ratio = 0.49
+Q69, Opt3: Fill ratio = 0.00
+Q70, Opt0: Fill ratio = 1.00
+Q70, Opt1: Fill ratio = 0.94
+Q70, Opt2: Fill ratio = 0.47
+Q70, Opt3: Fill ratio = 0.00
+Q71, Opt0: Fill ratio = 1.00
+Q71, Opt1: Fill ratio = 1.00
+Q71, Opt2: Fill ratio = 0.44
+Q71, Opt3: Fill ratio = 0.00
+Q72, Opt0: Fill ratio = 1.00
+Q72, Opt1: Fill ratio = 1.00
+Q72, Opt2: Fill ratio = 0.40
+Q72, Opt3: Fill ratio = 0.00
+Q73, Opt0: Fill ratio = 1.00
+Q73, Opt1: Fill ratio = 1.00
+Q73, Opt2: Fill ratio = 0.40
+Q73, Opt3: Fill ratio = 0.00
+Q74, Opt0: Fill ratio = 1.00
+Q74, Opt1: Fill ratio = 1.00
+Q74, Opt2: Fill ratio = 0.37
+Q74, Opt3: Fill ratio = 0.00
+Q75, Opt0: Fill ratio = 1.00
+Q75, Opt1: Fill ratio = 1.00
+Q75, Opt2: Fill ratio = 0.39
+Q75, Opt3: Fill ratio = 0.00
+Q76, Opt0: Fill ratio = 1.00
+Q76, Opt1: Fill ratio = 1.00
+Q76, Opt2: Fill ratio = 0.35
+Q76, Opt3: Fill ratio = 0.00
+Q77, Opt0: Fill ratio = 1.00
+Q77, Opt1: Fill ratio = 0.92
+Q77, Opt2: Fill ratio = 0.33
+Q77, Opt3: Fill ratio = 0.00
+Q78, Opt0: Fill ratio = 1.00
+Q78, Opt1: Fill ratio = 0.85
+Q78, Opt2: Fill ratio = 0.31
+Q78, Opt3: Fill ratio = 0.00
+Q79, Opt0: Fill ratio = 1.00
+Q79, Opt1: Fill ratio = 0.75
+Q79, Opt2: Fill ratio = 0.29
+Q79, Opt3: Fill ratio = 0.00
+Q80, Opt0: Fill ratio = 1.00
+Q80, Opt1: Fill ratio = 0.62
+Q80, Opt2: Fill ratio = 0.27
+Q80, Opt3: Fill ratio = 0.00
+Q81, Opt0: Fill ratio = 1.00
+Q81, Opt1: Fill ratio = 0.52
+Q81, Opt2: Fill ratio = 0.26
+Q81, Opt3: Fill ratio = 0.00
+Q82, Opt0: Fill ratio = 1.00
+Q82, Opt1: Fill ratio = 0.45
+Q82, Opt2: Fill ratio = 0.21
+Q82, Opt3: Fill ratio = 0.00
+Q83, Opt0: Fill ratio = 1.00
+Q83, Opt1: Fill ratio = 0.39
+Q83, Opt2: Fill ratio = 0.13
+Q83, Opt3: Fill ratio = 0.00
+Q84, Opt0: Fill ratio = 1.00
+Q84, Opt1: Fill ratio = 0.41
+Q84, Opt2: Fill ratio = 0.07
+Q84, Opt3: Fill ratio = 0.00
+Q85, Opt0: Fill ratio = 1.00
+Q85, Opt1: Fill ratio = 0.38
+Q85, Opt2: Fill ratio = 0.01
+Q85, Opt3: Fill ratio = 0.00
+Q86, Opt0: Fill ratio = 1.00
+Q86, Opt1: Fill ratio = 0.37
+Q86, Opt2: Fill ratio = 0.00
+Q86, Opt3: Fill ratio = 0.00
+Q87, Opt0: Fill ratio = 0.98
+Q87, Opt1: Fill ratio = 0.33
+Q87, Opt2: Fill ratio = 0.00
+Q87, Opt3: Fill ratio = 0.00
+Q88, Opt0: Fill ratio = 0.92
+Q88, Opt1: Fill ratio = 0.30
+Q88, Opt2: Fill ratio = 0.00
+Q88, Opt3: Fill ratio = 0.00
+Q89, Opt0: Fill ratio = 0.88
+Q89, Opt1: Fill ratio = 0.29
+Q89, Opt2: Fill ratio = 0.00
+Q89, Opt3: Fill ratio = 0.00
+Q90, Opt0: Fill ratio = 0.88
+Q90, Opt1: Fill ratio = 0.27
+Q90, Opt2: Fill ratio = 0.00
+Q90, Opt3: Fill ratio = 0.00
+Q91, Opt0: Fill ratio = 0.91
+Q91, Opt1: Fill ratio = 0.22
+Q91, Opt2: Fill ratio = 0.00
+Q91, Opt3: Fill ratio = 0.02
+Q92, Opt0: Fill ratio = 0.82
+Q92, Opt1: Fill ratio = 0.17
+Q92, Opt2: Fill ratio = 0.00
+Q92, Opt3: Fill ratio = 0.00
+Q93, Opt0: Fill ratio = 0.79
+Q93, Opt1: Fill ratio = 0.11
+Q93, Opt2: Fill ratio = 0.00
+Q93, Opt3: Fill ratio = 0.00
+Q94, Opt0: Fill ratio = 0.72
+Q94, Opt1: Fill ratio = 0.08
+Q94, Opt2: Fill ratio = 0.00
+Q94, Opt3: Fill ratio = 0.00
+Q95, Opt0: Fill ratio = 0.70
+Q95, Opt1: Fill ratio = 0.01
+Q95, Opt2: Fill ratio = 0.00
+Q95, Opt3: Fill ratio = 0.00
+Q96, Opt0: Fill ratio = 0.67
+Q96, Opt1: Fill ratio = 0.01
+Q96, Opt2: Fill ratio = 0.00
+Q96, Opt3: Fill ratio = 0.00
+Q97, Opt0: Fill ratio = 0.60
+Q97, Opt1: Fill ratio = 0.00
+Q97, Opt2: Fill ratio = 0.00
+Q97, Opt3: Fill ratio = 0.00
+Q98, Opt0: Fill ratio = 0.44
+Q98, Opt1: Fill ratio = 0.00
+Q98, Opt2: Fill ratio = 0.00
+Q98, Opt3: Fill ratio = 0.00
+Q99, Opt0: Fill ratio = 0.36
+Q99, Opt1: Fill ratio = 0.00
+Q99, Opt2: Fill ratio = 0.00
+Q99, Opt3: Fill ratio = 0.00
+Q100, Opt0: Fill ratio = 0.12
+Q100, Opt1: Fill ratio = 0.00
+Q100, Opt2: Fill ratio = 0.00
+Q100, Opt3: Fill ratio = 0.00
+Q1: Student=3, Correct=a
+Q2: Student=3, Correct=c
+Q3: Student=3, Correct=c
+Q4: Student=3, Correct=c
+Q5: Student=3, Correct=c
+Q6: Student=3, Correct=a
+Q7: Student=3, Correct=c
+Q8: Student=3, Correct=c
+Q9: Student=3, Correct=b
+Q10: Student=3, Correct=c
+Q11: Student=3, Correct=a
+Q12: Student=3, Correct=a
+Q13: Student=3, Correct=d
+Q14: Student=3, Correct=a
+Q15: Student=3, Correct=b
+Q16: Student=[3, 2, 1], Correct=a b c d
+Q17: Student=3, Correct=c
+Q18: Student=3, Correct=d
+Q19: Student=3, Correct=a
+Q20: Student=3, Correct=b
+Q21: Student=3, Correct=a
+Q22: Student=3, Correct=d
+Q23: Student=3, Correct=b
+Q24: Student=3, Correct=a
+Q25: Student=3, Correct=c
+Q26: Student=None, Correct=b
+Q27: Student=None, Correct=a
+Q28: Student=None, Correct=b
+Q29: Student=2, Correct=d
+Q30: Student=2, Correct=c
+Q31: Student=2, Correct=c
+Q32: Student=2, Correct=a
+Q33: Student=2, Correct=b
+Q34: Student=2, Correct=c
+Q35: Student=2, Correct=a
+Q36: Student=2, Correct=b
+Q37: Student=2, Correct=d
+Q38: Student=2, Correct=b
+Q39: Student=2, Correct=a
+Q40: Student=2, Correct=b
+Q41: Student=2, Correct=c
+Q42: Student=2, Correct=c
+Q43: Student=2, Correct=c
+Q44: Student=2, Correct=b
+Q45: Student=2, Correct=b
+Q46: Student=2, Correct=a
+Q47: Student=2, Correct=c
+Q48: Student=2, Correct=b
+Q49: Student=2, Correct=d
+Q50: Student=2, Correct=a
+Q51: Student=2, Correct=c
+Q52: Student=2, Correct=b
+Q53: Student=None, Correct=c
+Q54: Student=None, Correct=c
+Q55: Student=None, Correct=a
+Q56: Student=None, Correct=b
+Q57: Student=None, Correct=b
+Q58: Student=None, Correct=a
+Q59: Student=[0, 2, 1], Correct=a b
+Q60: Student=0, Correct=b
+Q61: Student=0, Correct=b
+Q62: Student=0, Correct=c
+Q63: Student=0, Correct=a
+Q64: Student=0, Correct=b
+Q65: Student=0, Correct=c
+Q66: Student=0, Correct=b
+Q67: Student=None, Correct=b
+Q68: Student=None, Correct=c
+Q69: Student=None, Correct=c
+Q70: Student=None, Correct=b
+Q71: Student=None, Correct=b
+Q72: Student=None, Correct=b
+Q73: Student=None, Correct=d
+Q74: Student=None, Correct=b
+Q75: Student=None, Correct=a
+Q76: Student=None, Correct=b
+Q77: Student=None, Correct=b
+Q78: Student=None, Correct=b
+Q79: Student=0, Correct=b
+Q80: Student=0, Correct=b
+Q81: Student=0, Correct=a
+Q82: Student=0, Correct=b
+Q83: Student=0, Correct=c
+Q84: Student=0, Correct=b
+Q85: Student=0, Correct=c
+Q86: Student=0, Correct=b
+Q87: Student=0, Correct=b
+Q88: Student=0, Correct=b
+Q89: Student=0, Correct=a
+Q90: Student=0, Correct=b
+Q91: Student=0, Correct=c
+Q92: Student=0, Correct=b
+Q93: Student=0, Correct=c
+Q94: Student=0, Correct=b
+Q95: Student=0, Correct=b
+Q96: Student=0, Correct=b
+Q97: Student=0, Correct=c
+Q98: Student=0, Correct=a
+Q99: Student=0, Correct=b
+Q100: Student=0, Correct=c
+Flagged 21 questions, error rate: 21.00%
+Saved processed image at results/TestA_processed.jpg
+Saved JSON result at results/TestA.json
+Saved CSV result at results/TestA.csv
+Saved result to database for TestA
+  Stopping...
